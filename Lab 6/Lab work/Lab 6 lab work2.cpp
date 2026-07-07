@@ -1,7 +1,7 @@
-// Name: Shahzad faisal
-// Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0733
-// Section: A
+// Name: Ibad Khan
+// Department: Electrical Engineering (AI)
+// Registration No: BF25NWELE0689
+// Section: B
 
 #include <iostream>
 #include <iomanip>   // for formatting
